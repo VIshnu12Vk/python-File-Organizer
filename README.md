@@ -46,3 +46,6 @@
 4. Use the GUI to select the folder you'd like to monitor and organize.
    - `.docx`, `.txt` files → `/Documents/`
    - And so on...
+
+## screenshot
+![Alt text](FileOrganizer.png)
